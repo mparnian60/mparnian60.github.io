@@ -517,7 +517,7 @@ section {
 
 
 .aboutDescription{
-  min-height:500px;
+  min-height:380px;
 
 }
 
@@ -728,6 +728,11 @@ section {
   height: 10px;
   transition: .9s;
   background-color: #ffb727;
+}
+
+.align-items-stretch {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*--------------------------------------------------------------
